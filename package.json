@@ -1,0 +1,33 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Haciendo curso de node de midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMGonzaloMata/cursoNode.git"
+  },
+  "keywords": [
+    "Aprendizaje",
+    "Curso",
+    "NodeJs"
+  ],
+  "author": "Gonzalo Mata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GMGonzaloMata/cursoNode/issues"
+  },
+  "homepage": "https://github.com/GMGonzaloMata/cursoNode#readme",
+  "dependencies": {
+    "picocolors": "1.0.1"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+}
+}
